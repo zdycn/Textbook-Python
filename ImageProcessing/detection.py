@@ -1,0 +1,1 @@
+# 特征提取：直方图均衡化、SIFT、Haar，HOG，LBP
